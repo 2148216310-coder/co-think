@@ -13,7 +13,7 @@
 克隆到 Codex 技能目录：
 
 ```bash
-git clone https://github.com/<你的用户名>/co-think.git ~/.codex/skills/co-think
+git clone https://github.com/2148216310-coder/co-think.git ~/.codex/skills/co-think
 ```
 
 或手动把 `SKILL.md` 和 `agents/openai.yaml` 复制到 `~/.codex/skills/co-think/`。
